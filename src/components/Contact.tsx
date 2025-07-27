@@ -33,8 +33,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Phone</h4>
-                    <a href="tel:9494500000" className="text-primary hover:underline text-lg">
-                      9494500000
+                    <a href="tel:9495194214" className="text-primary hover:underline text-lg">
+                      9495194214
                     </a>
                     <p className="text-sm text-muted-foreground">Available 24/7 for emergencies</p>
                   </div>
@@ -59,7 +59,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Service Area</h4>
-                    <p className="text-muted-foreground">Serving the entire region</p>
+                    <p className="text-muted-foreground">Serving the all over kerala</p>
                     <p className="text-sm text-muted-foreground">Free estimates within 50km</p>
                   </div>
                 </div>
@@ -87,10 +87,10 @@ const Contact = () => {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <a href="tel:9494500000">
+                <a href="tel:9495194214">
                   <Button variant="cta" size="lg" className="w-full">
                     <Phone className="mr-2 h-5 w-5" />
-                    Call 9494500000 Now
+                    Call 9495194214 Now
                   </Button>
                 </a>
               </CardContent>

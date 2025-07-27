@@ -16,7 +16,7 @@ const Header = () => {
         </nav>
         
         <div className="flex items-center space-x-4">
-          <a href="tel:9494500000" className="hidden sm:flex">
+          <a href="tel:9495194214" className="hidden sm:flex">
             <Button variant="cta" size="sm">
               <Phone className="mr-2 h-4 w-4" />
               Call Now

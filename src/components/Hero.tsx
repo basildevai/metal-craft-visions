@@ -28,10 +28,10 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <a href="tel:9494500000">
+            <a href="tel:9495194214">
               <Button variant="cta" size="lg" className="animate-glow-pulse">
                 <Phone className="mr-2 h-5 w-5" />
-                Call 9494500000
+                Call 9495194214
               </Button>
             </a>
             
